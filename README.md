@@ -7,6 +7,12 @@
 
 Stuack is a chrome extension for www.studocu.com to get free premium features
 
+
+!!!! Depending on which version of Studocu web version you are getting, you either have to use the previous version ([v0.4.3](https://github.com/isanchop/stuhack/releases/tag/v0.4.3)) or the latest.
+If you have the old classic logo, use the version [v0.4.3](https://github.com/isanchop/stuhack/releases/tag/v0.4.3) 
+If you are getting this modern version of Studocu use the latest!!!!
+
+
 ## Features:
   
     -Premium banner remove
